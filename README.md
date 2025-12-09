@@ -1,3 +1,3 @@
 # sona-demo
 my first get repo
-author:gangadhari sona
+author:gangadhari sonalika(gd)
